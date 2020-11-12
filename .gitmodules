@@ -1,0 +1,4 @@
+[submodule "src/services/UIKit"]
+	path = src/services/UIKit
+	url = git@github.com:tonlabs/UIKit.git
+	branch = development
